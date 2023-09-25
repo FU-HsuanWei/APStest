@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BHzlVMMwi9ijgxPSiW/B3siwHUfGUpTtQSDSCZhKnUUk8tnDKBtcoAUI6JIU5k4vb5GLJ/bmE5V5ERGRRLPsLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pattickfu\\Desktop\\20230919_APS\\20230919_APS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pattickfu\\.nuget\\packages\\autodesk.forge\\1.9.8\\autodesk.forge.1.9.8.nupkg.sha512",
+    "C:\\Users\\pattickfu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\pattickfu\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
